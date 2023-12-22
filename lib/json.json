@@ -1,0 +1,137 @@
+{
+  "Envelope": {
+    "gesmes": "http://www.gesmes.org/xml/2002-08-01",
+    "xmlns": "http://www.ecb.int/vocabulary/2002-08-01/eurofxref",
+    "subject": "Reference rates",
+    "Sender": {
+      "name": "European Central Bank"
+    },
+    "Cube": {
+      "Cube": {
+        "time": "2023-12-20",
+        "Cube": [
+          {
+            "currency": "USD",
+            "rate": "1.0944"
+          },
+          {
+            "currency": "JPY",
+            "rate": "157.12"
+          },
+          {
+            "currency": "BGN",
+            "rate": "1.9558"
+          },
+          {
+            "currency": "CZK",
+            "rate": "24.538"
+          },
+          {
+            "currency": "DKK",
+            "rate": "7.4565"
+          },
+          {
+            "currency": "GBP",
+            "rate": "0.86555"
+          },
+          {
+            "currency": "HUF",
+            "rate": "385.23"
+          },
+          {
+            "currency": "PLN",
+            "rate": "4.3413"
+          },
+          {
+            "currency": "RON",
+            "rate": "4.9699"
+          },
+          {
+            "currency": "SEK",
+            "rate": "11.1290"
+          },
+          {
+            "currency": "CHF",
+            "rate": "0.9460"
+          },
+          {
+            "currency": "ISK",
+            "rate": "150.30"
+          },
+          {
+            "currency": "NOK",
+            "rate": "11.2895"
+          },
+          {
+            "currency": "TRY",
+            "rate": "31.8830"
+          },
+          {
+            "currency": "AUD",
+            "rate": "1.6186"
+          },
+          {
+            "currency": "BRL",
+            "rate": "5.3287"
+          },
+          {
+            "currency": "CAD",
+            "rate": "1.4609"
+          },
+          {
+            "currency": "CNY",
+            "rate": "7.8121"
+          },
+          {
+            "currency": "HKD",
+            "rate": "8.5439"
+          },
+          {
+            "currency": "IDR",
+            "rate": "16993.62"
+          },
+          {
+            "currency": "ILS",
+            "rate": "3.9983"
+          },
+          {
+            "currency": "INR",
+            "rate": "91.0595"
+          },
+          {
+            "currency": "KRW",
+            "rate": "1425.62"
+          },
+          {
+            "currency": "MXN",
+            "rate": "18.6867"
+          },
+          {
+            "currency": "MYR",
+            "rate": "5.0977"
+          },
+          {
+            "currency": "NZD",
+            "rate": "1.7421"
+          },
+          {
+            "currency": "PHP",
+            "rate": "60.991"
+          },
+          {
+            "currency": "SGD",
+            "rate": "1.4562"
+          },
+          {
+            "currency": "THB",
+            "rate": "38.252"
+          },
+          {
+            "currency": "ZAR",
+            "rate": "20.1107"
+          }
+        ]
+      }
+    }
+  }
+}
